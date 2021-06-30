@@ -11,3 +11,63 @@
 	display: table;
 	clear: both;
 }
+
+body{
+    
+}
+
+.high_header{
+    height: 100px;
+    background-color: blue;
+}
+
+.menu_nav ul{
+    list-style: none;
+    display: inline-block;
+}
+
+.menu_nav ul li{
+    display: inline-block;
+    margin: 30px;
+    color: white;
+}
+
+.logo_discord{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin: 30px;
+    line-height: 30px;
+}
+
+.menu_nav{
+    float: left;
+    width: 60%;
+    text-align: center;
+    line-height: 20px;
+}
+
+.buttons_white{
+    background-color: white;
+    color: black;
+    float: left;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 20px;
+    height: 20px;
+    margin: 30px;
+}
+
+.buttons {
+    display: inline-block;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 20px;
+    background-color: white;
+}
+
+.container_banner{
+    height: 100px;
+    
+}
