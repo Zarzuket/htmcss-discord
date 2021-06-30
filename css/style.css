@@ -18,7 +18,7 @@ body{
 
 .high_header{
     height: 100px;
-    background-color: blue;
+    background-color:#3161e0;
 }
 
 .menu_nav ul{
@@ -56,18 +56,29 @@ body{
     line-height: 20px;
     height: 20px;
     margin: 30px;
+
 }
 
 .buttons {
     display: inline-block;
-    height: 20px;
     border-radius: 10px;
     text-align: center;
     line-height: 20px;
     background-color: white;
+    padding: 3px;
+    border: none;
+    margin: 30px;
 }
 
 .container_banner{
     height: 100px;
-    
+   
+}
+
+.low_header{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/jumbo.png);
 }
